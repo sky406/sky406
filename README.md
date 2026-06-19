@@ -1,3 +1,3 @@
 -  Hi, I’m Wesley
 - i make things sometimes
-- mostly game stuff and balender addons right now
+- mostly game stuff and blender addons right now
